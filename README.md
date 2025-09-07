@@ -1,6 +1,7 @@
 # Shoperroo 🧺
 ### Grocery Shop App Following Mitch Koko's Tutorial
-Shoperroo is a mobile shopping app built with Flutter, inspired by Mitch Koko’s “Grocery Shop App” tutorial. It demonstrates practical app structuring, product list, and UI features in Flutter—offering users a seamless experience to explore grocery items and get familiar with Flutter development patterns.
+**Shoperroo** is a **mobile shopping app** built with **Flutter**, inspired by **Mitch Koko’s “Grocery Shop App” tutorial**. It demonstrates practical **app structuring, product list, and UI features** in Flutter—offering users a seamless experience to explore grocery items and get familiar with Flutter development patterns.
+<br><br>
 
 ## Features
 - **Product list view** with images, names, and prices for easy browsing
